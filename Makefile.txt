@@ -1,0 +1,4 @@
+TicTacToe.cpp: g++ -Wall -o tic TicTacToe.cpp board.cpp -lglut -lGLU -lGl -lm -lSOIL
+
+
+
